@@ -1,6 +1,6 @@
 # Hacktoberfest2K21
 
-Hello all, Let's contribute to open source. Steps to contribute :
+Hello all, Let's contribute to open source. </br>Steps to contribute :
 
 1.Fork any repository having 'hacktoberfest' tag.
 2.Add files in that.
